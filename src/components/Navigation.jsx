@@ -6,10 +6,10 @@ const Navigation = () => {
   return (
     <div
       style={{ background: "#091C29" }}
-      className={`fixed top-0 z-40 w-screen`}
+      className={`fixed top-0 z-40 w-screen `}
     >
       <div
-        className={`flex min-h-fit items-center mx-auto w-10/12 justify-between py-3 text-white`}
+        className={`flex min-h-fit  items-center mx-auto w-10/12 justify-between py-3 text-white`}
       >
         <ScrollLink to="header" smooth={true}>
           <h1 className="text-5xl font-semibold md:text-3xl cursor-pointer">
