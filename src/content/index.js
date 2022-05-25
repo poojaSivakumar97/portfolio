@@ -1,5 +1,5 @@
 import Mongo from "../assets/mongo.png";
-import Profile from "../assets/Profile.png";
+import Comedy from "../assets/Comedy.png";
 import Express from "../assets/express.png";
 import React from "../../public/logo192.png";
 import Node from "../assets/node.png";
@@ -34,7 +34,7 @@ export default {
     text: "I have done",
     details: [
       {
-        img: project,
+        img: Comedy,
         head: "Netflix Clone",
         desc: "Netflix clone built using React JS and test-tmdb-api built navigation and provided realtime youtube link for trailer content",
       },
