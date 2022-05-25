@@ -34,7 +34,7 @@ export default {
     text: "I have done",
     details: [
       {
-        img: Comedy,
+        img: project,
         head: "Netflix Clone",
         desc: "Netflix clone built using React JS and test-tmdb-api built navigation and provided realtime youtube link for trailer content",
       },
