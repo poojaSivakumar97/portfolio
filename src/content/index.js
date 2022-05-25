@@ -1,5 +1,5 @@
 import Mongo from "../assets/mongo.png";
-import Profile from "../assets/Profile.png";
+import Donald from "../assets/Donald.png";
 import Express from "../assets/express.png";
 import React from "../../public/logo192.png";
 import Node from "../assets/node.png";
@@ -17,7 +17,7 @@ export default {
     ],
   },
   header: {
-    img: Profile,
+    img: Donald,
     text: ["Hi!", `It's me Pooja `, "Iam "],
     typical: [
       " Web Developer.",
